@@ -1,0 +1,3 @@
+# Ignore SAM build folder
+.aws-sam/
+
