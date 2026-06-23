@@ -1,4 +1,6 @@
-# Simple Serverless Service
+# Serverless SAM API
+
+A simple serverless HTTP API service built with Serverless Application Model (SAM).
 
 ## Prerequisites
 
