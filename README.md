@@ -15,7 +15,7 @@ A simple serverless HTTP API service built with Serverless Application Model (SA
 Install AWS CLI
 
 ```sh
-brew install aws-cli
+brew install awscli
 ```
 
 You will also need to configure your AWS CLI to add your credentials.
