@@ -62,6 +62,14 @@ Invoke the function locally. You should see the return message from the Lambda f
 sam local invoke <name-of-your-function>
 ```
 
+## Invoke the function with event parameters
+
+To invoke the function for log level `debug`.
+
+```sh
+sam local invoke LogLevelFunction -e events/debug.json
+```
+
 ## Deploy the application
 
 This will deploy the application based on the configuration in `samconfig.toml`.
