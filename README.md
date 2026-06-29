@@ -1,6 +1,6 @@
-# Serverless SAM API
+# Lambda Logs
 
-A simple serverless HTTP API service built with Serverless Application Model (SAM).
+A simple lambda service to log the different log levels.
 
 ## Prerequisites
 
